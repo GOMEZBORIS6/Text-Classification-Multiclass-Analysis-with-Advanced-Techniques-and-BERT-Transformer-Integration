@@ -1,5 +1,7 @@
 # Text-Classification-Multiclass-Analysis-with-Advanced-Techniques-and-BERT-Transformer-Integration
 
+<img src="E_commerce_classification.png" style="width:100%; height: 400px">
+
 **Overview:**
 
 The primary goal of this project is to categorize e-commerce products into four distinct groups: `Electronics`, `Household`, `Books`, and `Clothing & Accessories`, based on their descriptions available on various e-commerce platforms. The key steps undertaken in this notebook include:
